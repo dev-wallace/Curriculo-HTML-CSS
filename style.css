@@ -74,7 +74,10 @@ body{
         height: 100%;
         object-fit: cover;
     }
-
+    .profileText .imgBox img:hover{
+        transform: scale(1.2);
+        
+    }
     .profileText h2{
         color: #ffffff;
         font-size: 2em;
